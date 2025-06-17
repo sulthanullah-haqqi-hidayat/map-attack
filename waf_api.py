@@ -1,6 +1,6 @@
 import requests
 
-API_URL = "ALAMAT API SAFALINE"
+API_URL = "https://ALAMAT API SAFALINE/api/open/records"
 TOKEN = "TOKEN API SAFELINE"
 
 headers = {
