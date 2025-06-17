@@ -122,4 +122,4 @@ Untuk sekarang saya upload baru versi 1 nya, versi 2 masih cooming soon untuk sa
 
 ---
 
-> _Aplikasi ini dikembangkan untuk meningkatkan keamanan infrastruktur dan monitoring siber Pemkab Solok Selatan dengan memanfaatkan data real-time dari SafeLine WAF._
+> _Aplikasi ini dikembangkan untuk meningkatkan keamanan infrastruktur dan monitoring siber Pemkab Solok Selatan dengan memanfaatkan data real-time dari [**SafeLine Web Application Firewall (WAF)**](https://www.chaitin.cn/en/safeline/)._
