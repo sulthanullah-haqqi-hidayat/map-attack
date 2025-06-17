@@ -1,3 +1,5 @@
 dash
 plotly
 requests
+dash_iconify
+numpy
