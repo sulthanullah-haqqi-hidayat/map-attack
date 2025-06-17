@@ -60,10 +60,10 @@ Aplikasi ini dikembangkan menggunakan **Python** dan terintegrasi langsung denga
 
 ## Integrasi SafeLine WAF
 
-Dashboard ini menggunakan **SafeLine Web Application Firewall (WAF) API** untuk mengambil data serangan dan log keamanan secara otomatis.  
+Dashboard ini menggunakan [**SafeLine Web Application Firewall (WAF)**](https://www.chaitin.cn/en/safeline/) untuk mengambil data serangan dan log keamanan secara otomatis.  
 SafeLine WAF membantu melindungi aplikasi web dari serangan siber seperti SQL Injection, XSS, dan serangan layer aplikasi lainnya.
 
-Aplikasi ini secara berkala melakukan request ke endpoint SafeLine API, lalu menampilkan statistik dan log secara real-time di dashboard.
+Aplikasi ini secara berkala melakukan request ke endpoint [SafeLine API](https://docs.chaitin.cn/safeline/), lalu menampilkan statistik dan log secara real-time di dashboard.
 
 ---
 
