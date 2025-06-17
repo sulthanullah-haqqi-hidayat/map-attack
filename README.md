@@ -80,6 +80,8 @@ Untuk sekarang saya upload baru versi 1 nya, versi 2 masih cooming soon untuk sa
 2. **Instal dependensi backend (Python)**
     ```bash
     cd backend
+    python3 -m venv venv
+    source venv/bin/activate
     pip install -r requirements.txt
     ```
 
